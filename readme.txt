@@ -6,3 +6,4 @@ Cambio 2 - Estudio Ingenieria Del Software
 
 Gabriela Bolaños:
 Cambio 3 - Soy estudiante de diplomado de la UTN 
+Cambio 4 - Estudio en la sede Central 
